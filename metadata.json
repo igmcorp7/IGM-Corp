@@ -1,0 +1,7 @@
+{
+  "name": "Nullu FX Ops",
+  "description": "An institutional-grade FX operations agent providing clinical, minimalist market analysis and automated briefings for professional traders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
